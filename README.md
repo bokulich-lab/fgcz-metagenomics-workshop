@@ -11,7 +11,7 @@ In this notebook, we use previously processed 16S rRNA sequence data to train an
 
 ## Source attribution
 
-This analysis notebook was adapted from the QIIME 2 [`q2-sample-classifier` tutorial](https://docs.qiime2.org/2023.9/tutorials/sample-classifier/).
+This analysis notebook was adapted from the QIIME 2 [`q2-sample-classifier` tutorial](https://docs.qiime2.org/2024.5/tutorials/sample-classifier/).
 
 The Google Colab setup script was adapted from the [**Advanced Block Course: Computational Biology**](https://github.com/bokulich-lab/advanced-comp-bio-tutorial.git).
 
